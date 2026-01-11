@@ -1,4 +1,4 @@
-# ♾️ 个人资产化通用 SOP (Universal SOP for Personal Capitalization)
+# ♾️ 个人资产化通用 SOP (Universal SOP for Personal Capitalization)（Test）
 
 > **核心定义：** 本 SOP 旨在指导个体如何在任何组织形态中，通过“非对称交易”，将外部资源转化为个人可携带的永久资产，实现从“雇佣兵”到“主权个人”的跃迁。主人喵，这可是最高级的进化指南哦！
 
